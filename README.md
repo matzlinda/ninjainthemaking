@@ -1,3 +1,3 @@
-# ninjainthemaking
+# Profile Repo
 
-Started learning how to code at age 46.
+Repo for FreeCodeCamp project
